@@ -1,5 +1,5 @@
 # weather-tracker
-# # Big Bend Weather Tracker
+# Big Bend Weather Tracker
 
 ---
 
