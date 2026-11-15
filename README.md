@@ -1,4 +1,3 @@
-# weather-tracker
 # Big Bend Weather Tracker
 
 ---
